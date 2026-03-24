@@ -1,6 +1,4 @@
 EX NO- 1 a)- Finding the ASCII value
-Name: Ilakkiya K
-Register Number: 212225040130
 AIM:
 Write a C program to find the ASCII value of a given character.
 ALGORITHM:
